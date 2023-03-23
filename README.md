@@ -3,6 +3,9 @@
  A Computational Method to Search for Viral Species Jump
 
 ## Built With
+## Frameworks / Libraries
+* Python
+* Jupyter
 
 ## Getting Started
 
