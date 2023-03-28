@@ -53,6 +53,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Contact
+Feel free to contact me to connect and/or collaborations!
 * [LinkedIn](https://www.linkedin.com/in/joey-tan-zuyi/)
 * [Email](mailto:joeytanbiz@gmail.com)
 
