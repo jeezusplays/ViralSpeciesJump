@@ -1,13 +1,42 @@
-# ViralSpeciesJump
+# A Computational Method to Search for Viral Species Jump
 ## About this Project
- A Computational Method to Search for Viral Species Jump
+### Objectives
+
+1.	Identify the number of mutations from wildtype sequence to mutated sequences
+2.	Show the path taken by the sequence to mutate
+3.	Create a network of paths based on data provided
+4.	Evaluate the results of the project
+
+Methods used and implemented were computationally logical, but it is not known how scientifically valid the results are. Expertise was helpful but could still be insufficient, due to the nature of the project. The project objective concerns A* algorithm, a pathfinding algorithm that heavily relies on neighbours and cost metric. However, as these factors are not easily determined, it is difficult to evaluate and justify the scientific validity of the prototype (especially with the lack of expertise). Furthermore, the project objective also includes network building, which is not possible with A* algorithm as it produced only one “best-fit” path. Based on this, it can be assumed that A* is not a suitable algorithm to use to achieve some of the project objectives. (More details below)
+
+
+<!-- ### Genomics vs. Genetics
+
+### Phylogenetic Analysis
+
+### DNA Sequencing -->
+
+
+### Algorithms / Variations of Prototype
+ * **Anaconda Distance**: Prototype that measures all sequences in dataset with Hamming and Levenshtein Distance
+ * **ASTAR**: Prototype with A* Algorithm Implementation (Base Notation)
+ * **ASTAR - AA**: Prototype with A* Algorithm Implementation (Amino Acid Codon)
+ * **ASTAR – Network**: Prototype with Network Graph Implementation 
+ * **Dijkstra**: Prototype with unsuccessful Dijkstra’s Algorithm Implementation 
 
 ## Built With
 ## Frameworks / Libraries
-* Python
-* Jupyter
+This section lists any major frameworks/libraries used.
+* [Python](https://www.python.org/)
+* [JupyterLab](https://pypi.org/project/jupyterlab/)
 
 ## Getting Started
+To get a local copy up and running follow these simple steps.
+### Prerequisites
+You will need the following software installed in your machine.
+* [Python](https://www.python.org/)
+* [JupyterLab](https://pypi.org/project/jupyterlab/)
+* [Jupter Notebook](https://jupyter.org/install)
 
 ## Usage
 
@@ -28,4 +57,5 @@ Don't forget to give the project a star! Thanks again!
 * [Email](mailto:joeytanbiz@gmail.com)
 
 ## Acknowledgements
+- [Temasek Polytechnic](https://www.tp.edu.sg/home.html)
 - [A*Star](https://www.a-star.edu.sg/): For providing me the opportunity to work under them for this project!
