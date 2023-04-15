@@ -25,12 +25,12 @@ Methods used and implemented were computationally logical, but it is not known h
  * **Dijkstra**: Prototype with unsuccessful Dijkstra’s Algorithm Implementation 
 
 ## Built With
-## Frameworks / Libraries
+### Frameworks / Libraries
 This section lists any major frameworks/libraries used.
 * [Python](https://www.python.org/)
 * [JupyterLab](https://pypi.org/project/jupyterlab/)
 
-## Getting Started
+### Getting Started
 To get a local copy up and running follow these simple steps.
 ### Prerequisites
 You will need the following software installed in your machine.
